@@ -1,19 +1,24 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+#Järjestelmäasiantuntija
+- company: Lähitaksi Oy
+  position: Järjestelmäasiantuntija
+  duration: Tammikuu 2019 &mdash;
+  summary: IT-järjestelmien ylläpito- ja kehitystehtävät. <ul class="resume-item-list"><li>SUTI-yhteydet</li><li>Muut ulkoiset ja sisäiset rajapinnat</li><li>Taksini-sovellus</li><li>Raportointi</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+#Taksikeskustyöntekijä
+- company: Lähitaksi Oy
+  position: Taksikeskustyöntekijä
+  duration: Helmikuu 2016 &mdash; Tammikuu 2019
+  summary: Taksitilausten välitys, helpdesk-tehtävät ja erikoistilausten myynti
+
+# Tuotannon tukihenkilö
+- company: Helsingin-Uudenmaan Taksit Oy
+  position: Tuotannon tukihenkilö
+  duration:  Elokuu 2014 &mdash; Helmikuu 2016
+  summary: Toiminnan aloittaminen; tekniikan toimivuudesta ja kehittämisestä vastaaminen; asiakas- ja osoiterekisterien ylläpito; yhteydenpito järjestelmätoimittajaan; matkojen yhdistelytoiminta; välityshenkilökunnan lähiesimiehenä toimiminen; maksuliikenneselvityksistä vastaaminen; työvuorosuunnitteluun, rekrytointiin ja kouluttamiseen osallistuminen; yhteistyö Kelan terveysosaston kanssa
+
+#Taksikeskustyöntekijä
+- company: Lähitaksi Oy
+  position: Taksikeskustyöntekijä
+  duration: Syyskuu 2007 &mdash; Elokuu 2014
+  summary: Taksitilausten välitys, helpdesk-tehtävät ja erikoistilausten myynti
